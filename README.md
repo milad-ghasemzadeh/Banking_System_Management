@@ -1,4 +1,4 @@
-# Customer Account Management | Spring boot
+# Banking System Management | Spring boot
 
 ## Table of Contents
 
@@ -26,6 +26,7 @@ Maven: Ensure that Maven is installed to manage the project's dependencies and b
   
 ## Run
 - In another step you can Run or Debug the BankingSystemManagementApplication
+- after running the application, you need to create a new customer, then you can create a new bank account
 
 
 ## Benefits
